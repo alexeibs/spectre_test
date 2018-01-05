@@ -1,0 +1,14 @@
+{
+  "name": "spectre_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Alexei Bykov <alexeibs@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  }
+}
